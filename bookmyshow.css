@@ -4,12 +4,13 @@
 }
 
 
-
+/* first */
 .first {
+  width:100%;
+  height:10vh;
   display: flex;
   align-items: center;
   background: white;
-  border-bottom: 1px solid white;
 }
 
 .logo img {
@@ -50,7 +51,6 @@
   border-radius: 4px;
   padding: 6px 12px;
   padding-right: 40px;
-  cursor: pointer;
 }
 
 .signin:hover{
@@ -59,6 +59,88 @@
 
 .menu {
   font-size: 20px;
-  /* cursor: pointer; */
   padding-right: 30px;
 }
+/* first */
+
+
+
+
+/* second */
+.second{
+  width:100%;
+  height:5vh;
+  background-color: silver;
+}
+
+.secleft {
+  display: flex;
+  gap:20px;
+  align-items: center;
+  padding-left: 80px;
+  color: black;
+}
+
+.secright{
+  display: flex;
+  gap:20px;
+  align-items:center;
+  padding-bottom: 10px;
+  padding-left: 1200px;
+  color: black;
+}
+
+/* second */
+
+
+
+
+/* three */
+.three{
+  width:100%;
+  height:45vh;
+  background-color:darkgrey;
+}
+
+
+.postmaalonecard{
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+  padding-left: 155px; 
+}
+
+/* three */
+
+
+.four{
+  width:100%;
+  height:100vh;
+  background-color: white;
+}
+
+.recommended h2 b{
+  display: flex;
+  color: black;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.cards1{
+  display: flex;
+  gap:30px;
+  padding-top: 20px;
+  padding-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
