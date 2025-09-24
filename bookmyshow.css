@@ -233,7 +233,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .six{
   width:100%;
-  height: 40vh;
+  height: 15vh;
   background-color: white;
 }
 
@@ -243,3 +243,128 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding-left: 55px;
   padding-top: 20px;
 }
+
+.seven{
+  width:100%;
+  height:35vh;
+}
+
+.sevencards{
+  padding-left: 110px;
+}
+
+
+
+.eight{
+  width: 100%;
+  height:100vh;
+  background-color: darkslategrey;
+}
+
+.premiere{
+  padding-top: 20px;
+  padding-left: 100px;
+}
+
+.premiers{
+  padding-left: 100px;
+  padding-top: 50px;
+  color: white;
+}
+
+.brand{
+  color: white;
+  padding-left: 100px;
+}
+
+
+
+.maincards-8{
+text-align: center;
+color: white;
+display: flex;
+align-items: start;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.films-8{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkslategrey;
+  border:none;
+}
+
+.neighbourhoodimg{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.headneighbourhood{
+  padding-top: 20px;
+  padding-left: 20px;
+  /* color:grey; */
+  font-size: smaller;
+}
+
+.thistimeimg{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.headthistime{
+  padding-top: 20px;
+  padding-left: 20px;
+  /* color:grey; */
+  font-size: smaller;
+}
+
+
+.weaponimg{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.headweapon{
+  padding-top: 20px;
+  padding-left: 20px;
+  /* color:grey; */
+  font-size: smaller;
+}
+
+
+
+.trustimg{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.headtrust{
+  padding-top: 20px;
+  padding-left: 20px;
+  /* color:grey; */
+  font-size: smaller;
+}
+
+
+.weapon2img{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.headweapon2{
+  padding-top: 20px;
+  /* padding-left: 20px; */
+  /* color:grey; */
+  font-size: smaller;
+}
+
+
+
+
+
+
+
