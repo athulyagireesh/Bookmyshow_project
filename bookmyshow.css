@@ -258,7 +258,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .eight{
   width: 100%;
   height:110vh;
-  background-color: darkslategrey;
+  background-color: rgb(45, 48, 76);
 }
 
 .premiere{
@@ -294,7 +294,6 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: darkslategrey;
   border:none;
 }
 
@@ -666,4 +665,187 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color:grey;
   font-size: smaller;
 }
+
+
+
+.twelve{
+  width:100%;
+  height:100vh;
+  background-attachment: white;
+}
+
+
+.topgames{
+  color: black;
+  padding-left: 110px;
+}
+
+
+
+
+
+
+.maincards-12{
+text-align: center;
+color: white;
+display: flex;
+align-items: start;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.events-12{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border:none;
+}
+
+.pushimg{
+  padding-top: 70px;
+  padding-left: 10px;
+}
+
+.headpush{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.kalariimg{
+  padding-top: 70px;
+}
+
+.headkalari{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.trailimg{
+  padding-top: 70px;
+}
+
+.headtrail{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.freeimg{
+  padding-top: 70px;
+}
+
+.headfree{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.setupimg{
+  padding-top: 70px;
+}
+
+.headsetup{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.thirteen{
+  width:100%;
+  height:30vh;
+  background-color: white;
+}
+
+.trendingsearches{
+  color: black;
+  padding-left: 110px;
+}
+
+
+.searchlist{
+  padding-top: 40px;
+  display: flex;
+  padding-left: 110px;
+  justify-content: space-evenly;
+}
+
+.kanthara{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+.lokhafilm{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+.karam{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+
+.they{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+
+.balti{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+
+.demonfilm{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+
+.chain{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+.miragefilm{
+  display: flex;
+  border: 1px solid grey;
+  gap:60px;
+}
+
+
+
+
+
 
