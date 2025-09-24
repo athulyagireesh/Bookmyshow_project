@@ -257,7 +257,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .eight{
   width: 100%;
-  height:100vh;
+  height:110vh;
   background-color: darkslategrey;
 }
 
@@ -357,8 +357,210 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .headweapon2{
   padding-top: 20px;
-  /* padding-left: 20px; */
+  padding-left: 20px;
   /* color:grey; */
+  font-size: smaller;
+}
+
+
+
+.nine{
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+}
+
+.events{
+  padding-left: 100px;
+  padding-top: 30px;
+}
+
+
+
+
+.maincards-9{
+text-align: center;
+color: white;
+display: flex;
+align-items: start;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.events-9{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border:none;
+}
+
+.dhandhoimg{
+  padding-top: 70px;
+  padding-left: 10px;
+}
+
+.headdhandho{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.womenwealthimg{
+  padding-top: 70px;
+}
+
+.headwomenwealth{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.micimg{
+  padding-top: 70px;
+}
+
+.headmic{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.kochiimg{
+  padding-top: 70px;
+}
+
+.headkochi{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.controlimg{
+  padding-top: 70px;
+}
+
+.headcontrol{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.ten{
+  width:100%;
+  height:100vh;
+  background-color: white;
+}
+
+.your{
+  color: black;
+  padding-left: 110px;
+}
+
+
+
+
+.maincards-10{
+text-align: center;
+color: white;
+display: flex;
+align-items: start;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.events-10{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border:none;
+}
+
+.pradeepimg{
+  padding-top: 70px;
+  padding-left: 10px;
+}
+
+.headpradeep{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.symphonyimg{
+  padding-top: 70px;
+}
+
+.headsymphony{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.passengerimg{
+  padding-top: 70px;
+}
+
+.headpassenger{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.funimg{
+  padding-top: 70px;
+}
+
+.headfun{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.openmicimg{
+  padding-top: 70px;
+}
+
+.headopenmic{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
   font-size: smaller;
 }
 
@@ -366,5 +568,102 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 
+.eleven{
+  width:100%;
+  height:100vh;
+  background-color: white;
+}
 
+.explore{
+  color: black;
+  padding-left: 110px;
+}
+
+
+
+
+.maincards-11{
+text-align: center;
+color: white;
+display: flex;
+align-items: start;
+flex-wrap: wrap;
+justify-content: space-evenly;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.events-11{
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border:none;
+}
+
+.silverstormimg{
+  padding-top: 70px;
+  padding-left: 10px;
+}
+
+.headsilverstorm{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.dayoutingimg{
+  padding-top: 70px;
+}
+
+.headdayouting{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.lunchcruiseimg{
+  padding-top: 70px;
+}
+
+.headlunchcruise{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+
+.kochistoriesimg{
+  padding-top: 70px;
+}
+
+.headkochistories{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
+
+
+
+.utsavimg{
+  padding-top: 70px;
+}
+
+.headutsav{
+  padding-top: 20px;
+  padding-left: 20px;
+  color:grey;
+  font-size: smaller;
+}
 
