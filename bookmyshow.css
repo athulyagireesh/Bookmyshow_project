@@ -888,10 +888,9 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .services {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  /* background: #3a3a3d; */
   padding: 20px 0;
   text-align: center;
-  /* color:grey; */
+  color:grey;
 }
 
 
@@ -910,12 +909,41 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .service-item p {
   font-size: 14px;
   font-weight: bold;
-  /* color: grey; */
+  color: grey;
 }
+
+
 
 
 .seventeen{
   width:100%;
   height: 200vh;
   background-color: grey;
+}
+
+.details{
+  padding-left: 120px;
+  padding-top: 50px;
+}
+
+.details h5{
+  color:#eee;
+  font-weight: lighter;
+}
+
+.details p{
+  color:blanchedalmond;
+}
+
+
+
+.eighteen{
+  width:100%;
+  height: 50vh;
+  background-color: grey;
+}
+
+.underline{
+  text-decoration: underline;
+  color:black;
 }
