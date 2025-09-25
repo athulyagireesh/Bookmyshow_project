@@ -775,7 +775,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .thirteen{
   width:100%;
-  height:30vh;
+  height:35vh;
   background-color: white;
 }
 
@@ -787,65 +787,135 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .searchlist{
   padding-top: 40px;
-  display: flex;
+  display: grid;
   padding-left: 110px;
   justify-content: space-evenly;
 }
 
-.kanthara{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
+
+.searchlist {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px; 
+  padding-left: 110px;
 }
 
-.lokhafilm{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
+.movie-card {
+  border: 1px solid #eee;
+  border-radius: 6px;
+  padding: 12px;
+  background: #fff;
 }
 
-.karam{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
+.movie-card h3 {
+  color: #e63950; 
+  font-size: 16px;
+  font-weight: 600;
 }
 
-
-.they{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
-}
+.movie-card p {
+  font-size: 14px;
+  color: #555;
+} 
 
 
-.balti{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
-}
 
-
-.demonfilm{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
-}
-
-
-.chain{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
-}
-
-.miragefilm{
-  display: flex;
-  border: 1px solid grey;
-  gap:60px;
+.fourteen{
+  width:100%;
+  height: 20px;
+  background-color:grey;
 }
 
 
 
 
+.fifteen{
+  width:100%;
+  height: 85px;
+   background-color:grey;
+}
+
+ .list-section {
+  display: grid;
+  grid-template-columns: 1fr auto; 
+  align-items: center;
+  padding-left: 150px;
+}
+
+.left-content {
+  display: flex;
+  align-items: center;
+  gap: 10px; 
+  flex-wrap: wrap;
+}
+
+.left-content h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 0.8;
+}
 
 
+
+.right-content{
+  padding-right: 55px;
+}
+
+
+
+.contact-btn {
+  background: #e74c5c;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.contact-btn:hover{
+  background-color: darkgoldenrod;
+}
+
+
+
+.sixteen{
+  width:100%;
+  height:150px;
+  background-color: #555;
+}
+
+.services {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* background: #3a3a3d; */
+  padding: 20px 0;
+  text-align: center;
+  /* color:grey; */
+}
+
+
+.service-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px; 
+}
+
+.icon {
+  width: 50px; 
+  height: auto;
+}
+
+.service-item p {
+  font-size: 14px;
+  font-weight: bold;
+  /* color: grey; */
+}
+
+
+.seventeen{
+  width:100%;
+  height: 200vh;
+  background-color: grey;
+}
